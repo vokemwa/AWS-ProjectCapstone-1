@@ -65,3 +65,38 @@ Create the files and folders in VS code i.e. lambda-api/index.js, webapp/Dockerf
 
 ![alt text](image-5.png)
 
+
+## Infrastructure as Code & Containerized Web App
+* Created index.html file inside webapp folder. This is the same folder having the Dockerfile
+
+## Create repository in ECR
+* search ECR in the console and open in new tab
+* Click create repository
+* Give it a name `CapstoneProject1-Repo`
+
+![alt text](image-6.png)
+
+* Create the repository by keeping everything default
+
+### Push commands
+* Click the repository created
+* Click view push commands button
+* The first push command screenshot
+
+![alt text](image-8.png)
+
+* The second push command screenshot
+
+![alt text](image-9.png)
+
+* The fourth push command screenshot with errors
+
+![alt text](image-10.png)
+
+* After troubleshooting, here is the screenshot for the fourth push command
+
+![alt text](image-11.png)
+
+* The image is in the repository
+
+![alt text](image-12.png)

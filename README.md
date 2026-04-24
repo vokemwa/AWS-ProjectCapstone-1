@@ -100,3 +100,25 @@ Create the files and folders in VS code i.e. lambda-api/index.js, webapp/Dockerf
 * The image is in the repository
 
 ![alt text](image-12.png)
+
+
+## CloudFormation Template and Fargate
+* Edit the yaml template and deploy the template
+
+* search for cloudformation in the console
+* Create stack
+* select upload template option
+* give it a name `capstoneproject1-deployment`
+
+* The stack has completed
+
+![alt text](image-13.png)
+
+* This is my cluster
+
+![alt text](image-14.png)
+
+# My final index web page
+
+![alt text](image-15.png)
+

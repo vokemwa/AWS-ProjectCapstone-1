@@ -122,3 +122,11 @@ Create the files and folders in VS code i.e. lambda-api/index.js, webapp/Dockerf
 
 ![alt text](image-15.png)
 
+* This is the url
+
+`http://3.239.175.113`
+
+
+# Cloudwatch dashboard
+
+![alt text](image-16.png)
